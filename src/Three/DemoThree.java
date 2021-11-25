@@ -7,7 +7,9 @@ public class DemoThree {
 		System.out.println("Demo Three code...");
 		
 		System.out.println("Keep Practicing");
-
+		
+		
+	       System.out.println("GitHub changes");
 	}
 
 }
